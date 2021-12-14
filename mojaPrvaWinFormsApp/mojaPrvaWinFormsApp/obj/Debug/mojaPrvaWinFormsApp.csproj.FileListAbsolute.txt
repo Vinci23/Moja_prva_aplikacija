@@ -1,0 +1,11 @@
+C:\Users\ucenik\Desktop\mojaPrvaWinFormsApp\mojaPrvaWinFormsApp\bin\Debug\mojaPrvaWinFormsApp.exe.config
+C:\Users\ucenik\Desktop\mojaPrvaWinFormsApp\mojaPrvaWinFormsApp\bin\Debug\mojaPrvaWinFormsApp.exe
+C:\Users\ucenik\Desktop\mojaPrvaWinFormsApp\mojaPrvaWinFormsApp\bin\Debug\mojaPrvaWinFormsApp.pdb
+C:\Users\ucenik\Desktop\mojaPrvaWinFormsApp\mojaPrvaWinFormsApp\obj\Debug\mojaPrvaWinFormsApp.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\mojaPrvaWinFormsApp\mojaPrvaWinFormsApp\obj\Debug\mojaPrvaWinFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\mojaPrvaWinFormsApp\mojaPrvaWinFormsApp\obj\Debug\mojaPrvaWinFormsApp.Form1.resources
+C:\Users\ucenik\Desktop\mojaPrvaWinFormsApp\mojaPrvaWinFormsApp\obj\Debug\mojaPrvaWinFormsApp.Properties.Resources.resources
+C:\Users\ucenik\Desktop\mojaPrvaWinFormsApp\mojaPrvaWinFormsApp\obj\Debug\mojaPrvaWinFormsApp.csproj.GenerateResource.cache
+C:\Users\ucenik\Desktop\mojaPrvaWinFormsApp\mojaPrvaWinFormsApp\obj\Debug\mojaPrvaWinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\mojaPrvaWinFormsApp\mojaPrvaWinFormsApp\obj\Debug\mojaPrvaWinFormsApp.exe
+C:\Users\ucenik\Desktop\mojaPrvaWinFormsApp\mojaPrvaWinFormsApp\obj\Debug\mojaPrvaWinFormsApp.pdb
